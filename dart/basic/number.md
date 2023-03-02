@@ -9,11 +9,31 @@ Penulisan (,) koma pada `double` menggunakan (.) titik, bukan (,) koma. Jadi, ki
 
 ```Dart
 void main() {
-    int number1 = 10;
-    double number2 = 10.5;
+  int number1 = 10;
+  double number2 = 10.5;
 
-    print(number1);
-    print(number2);
+  print(number1);
+  print(number2);
+}
+```
+```sh
+10
+10.5
+```
+
+</br>
+
+## Num
+
+Jika kamu ingin menggunakan tipe data number yang bisa `int` ataupun `double`, gunakanlah tipe data `num`.
+
+```Dart
+void main() {
+  num number = 10;
+  print(number);
+
+  number = 10.5;
+  print(number);
 }
 ```
 ```sh

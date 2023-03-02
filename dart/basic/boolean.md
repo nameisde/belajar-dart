@@ -16,15 +16,25 @@ Kita dapat melakukan operasi logika seperti AND, OR, dan NOT pada tipe data bool
 ```Dart
 void main() {
   // Operator AND
-  bool resultA = isTrue && isFalse; //false
-  bool resultB = isTrue && !isFalse; //true
+  bool resultA = isTrue && isFalse; 
+  bool resultB = isTrue && !isFalse;
 
   // Operator OR
-  bool resultC = isTrue || isFalse; //true
-  bool resultD = isTrue || !isFalse; //false 
+  bool resultC = isTrue || isFalse; 
+  bool resultD = isTrue || !isFalse;
 
   // Operator NOT
-  bool resultA = !isTrue; //false
-  bool resultB = !isFalse; //true
+  bool resultA = !isTrue;
+  bool resultB = !isFalse;
 }
+```
+```sh
+false
+true
+
+true
+false
+
+false
+true
 ```

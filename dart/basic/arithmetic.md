@@ -73,7 +73,7 @@ int c = b ~/ a;
 
 </br>
 
-### 6.\ Modulo `%`
+### 6\. Modulo `%`
 
 ```Dart
 int a = 5;
@@ -86,7 +86,7 @@ int c = b % a;
 
 </br>
 
-### 7.\ Penambahan Satu `++`
+### 7\. Penambahan Satu `++`
 
 ```Dart
 int a = 5;
@@ -98,7 +98,7 @@ a++;
 
 </br>
 
-### 8.\ Pengurangan Satu `--`
+### 8\. Pengurangan Satu `--`
 
 ```Dart
 int a = 5;

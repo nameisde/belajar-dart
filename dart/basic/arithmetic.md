@@ -8,7 +8,7 @@ Bahasa Dart mendukung aritmatika standar yang terdapat pada bahasa pemrograman l
 
 </br>
 
-### 1\. Penjumlahan `+`
+## 1\. Penjumlahan `+`
 
 ```Dart
 int a = 5;
@@ -21,7 +21,7 @@ int c = a + b;
 
 </br>
 
-### 2\. Pengurangan `-`
+## 2\. Pengurangan `-`
 
 ```Dart
 int a = 5;
@@ -34,7 +34,7 @@ int c = b + a;
 
 </br>
 
-### 3\. Perkalian `*`
+## 3\. Perkalian `*`
 
 ```Dart
 int a = 5;
@@ -47,7 +47,7 @@ int c = a * b;
 
 </br>
 
-### 4\. Pembagian `/`
+## 4\. Pembagian `/`
 
 ```Dart
 int a = 5;
@@ -60,7 +60,7 @@ int c = b / a;
 
 </br>
 
-### 5\. Pembagian Bulat `~/`
+## 5\. Pembagian Bulat `~/`
 
 ```Dart
 int a = 5;
@@ -73,7 +73,7 @@ int c = b ~/ a;
 
 </br>
 
-### 6\. Modulo `%`
+## 6\. Modulo `%`
 
 ```Dart
 int a = 5;
@@ -86,7 +86,7 @@ int c = b % a;
 
 </br>
 
-### 7\. Penambahan Satu `++`
+## 7\. Penambahan Satu `++`
 
 ```Dart
 int a = 5;
@@ -98,7 +98,7 @@ a++;
 
 </br>
 
-### 8\. Pengurangan Satu `--`
+## 8\. Pengurangan Satu `--`
 
 ```Dart
 int a = 5;

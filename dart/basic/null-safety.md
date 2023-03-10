@@ -1,4 +1,4 @@
-## Null safety
+# Null safety
 
 Null safety digunakan untuk memastikan bahwa nilai `null` hanya diberikan ke variabel atau objek yang dinyatakan `nullable` secara eksplisit. Hal ini dapat mencegah bug runtime yang disebabkan oleh akses atau operasi pada variabel `null`.
 

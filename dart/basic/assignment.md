@@ -1,4 +1,4 @@
-## Assignment
+# Assignment
 
 Assignment digunakan untuk menginisialisasi atau memperbaharui nilai dari sebuah variabel dengan menggunakan nilai dari operand yang diberikan. Dalam Dart, *assignment* umumnya terdiri dari tanda `=` dan operator matematika seperti `+=`, `-=`, `*=`, `/=` dan `%=`.
 
@@ -8,7 +8,7 @@ Berikut adalah contoh penggunaannya:
 
 </br>
 
-### 1\. Operator `=`
+## 1\. Operator `=`
 
 Menginisialisasi atau memperbaharui nilai dari sebuah variabel dengan nilai dari operand.
 
@@ -23,7 +23,7 @@ a = 10;
 
 </br>
 
-### 2\. Operator `+=`
+## 2\. Operator `+=`
 
 Menambahkan nilai operand ke nilai variabel dan menyimpan hasilnya pada variabel itu sendiri.
 
@@ -37,7 +37,7 @@ a += 3
 
 </br>
 
-### 3\. Operator `-=`
+## 3\. Operator `-=`
 
 Mengurangi nilai operand dari nilai variabel dan menyimpan hasilnya pada variabel itu sendiri.
 
@@ -51,7 +51,7 @@ a -= 5;
 
 </br>
 
-### 4\. Operator `*=`
+## 4\. Operator `*=`
 
 Mengalikan nilai operand dengan nilai variabel dan menyimpan hasilnya pada variabel itu sendiri.
 
@@ -65,7 +65,7 @@ a *= 2;
 
 </br>
 
-### 5\. Operator `/=`
+## 5\. Operator `/=`
 
 Membagi nilai variabel dengan nilai operand dan menyimpan hasilnya pada variabel itu sendiri.
 
@@ -79,7 +79,7 @@ a /= 2;
 
 </br>
 
-### 6\. Operator `%=`
+## 6\. Operator `%=`
 
 Mendapatkan sisa pembagian dari nilai operand dan menyimpan hasilnya pada variabel itu sendiri.
 

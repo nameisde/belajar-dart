@@ -1,4 +1,4 @@
-## Null
+# Null
 
 Sebuah nilai yang menunjukkan bahwa suatu variabel tidak memiliki nilai atau kosong. Jika suatu variabel dideklarasikan dengan tipe data *nullable*, maka variabel tersebut dapat menyimpan nilai `null`.
 

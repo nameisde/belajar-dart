@@ -1,10 +1,10 @@
-## Conversion
+# Conversion
 
 Terdapat beberapa cara untuk melakukan konversi atau perubahan tipe data dari suatu nilai ke tipe data yang lain. Berikut adalah beberapa cara yang umum digunakan:
 
 </br>
 
-### 1\. Konversi secara eksplisit menggunakan operator `as`.
+## 1\. Konversi secara eksplisit menggunakan operator `as`.
 
 Operator `as` digunakan untuk mengkonversi tipe data secara eksplisit. Misalnya, untuk mengkonversi nilai dari tipe data `int` ke tipe data `double`, Anda dapat menggunakan operator `as double`.
 
@@ -24,7 +24,7 @@ Namun, perlu diingat bahwa operator `as` hanya dapat digunakan jika tipe data ya
 
 </br>
 
-### 2\. Konversi secara implisit 
+## 2\. Konversi secara implisit 
 
 Konversi secara implisit terjadi ketika kita mengubah atau memasukkan nilai dari suatu tipe data ke tipe data lainnya.
 
@@ -48,7 +48,7 @@ Pada contoh di atas, nilai integer `10` dan double `3.14` dijumlahkan, dan hasil
 
 </br>
 
-### 3\. Menggunakan metode konversi yang disediakan oleh tipe data
+## 3\. Menggunakan metode konversi yang disediakan oleh tipe data
 
 Tipe data pada Dart menyediakan beberapa metode dan fungsi untuk melakukan konversi nilai dari suatu tipe data ke tipe data lainnya. Berikut adalah beberapa konversi yang disediakan oleh tipe data pada Dart.
 

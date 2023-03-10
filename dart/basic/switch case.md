@@ -1,4 +1,4 @@
-## Switch case
+# Switch case
 
 Struktur kontrol untuk memeriksa nilai suatu variabel dan melakukan aksi yang sesuai dengan nilai tersebut.
 

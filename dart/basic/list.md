@@ -1,10 +1,10 @@
-## List
+# List
 
 `List` pada bahasa pemrograman Dart merupakan struktur data yang digunakan untuk menyimpan kumpulan nilai yang sejenis. `List` dapat dianggap sebagai tipe data yang memungkinkan kita untuk menyimpan banyak nilai dalam satu variabel.
 
 </br>
 
-### Deklarasi List
+## Deklarasi List
 
 Untuk membuat `List`, kita dapat mendeklarasikannya dengan menuliskan tipe data `List` diikuti dengan tanda kurung siku `[]` yang di dalamnya dapat diisi dengan nilai-nilai yang ingin disimpan.
 
@@ -14,7 +14,7 @@ List<int> angka = [1, 2, 3];
 
 </br>
 
-### Akses elemen pada List
+## Akses elemen pada List
 
 Untuk mengakses elemen pada `List`, kita dapat menggunakan `indeks` atau nomer urut elemen yang dimulai dari angka `0`.
 
@@ -28,7 +28,7 @@ apel
 
 </br>
 
-### Mengubah elemen pada List
+## Mengubah elemen pada List
 
 Kita dapat mengubah nilai elemen pada `List` dengan cara mengakses elemen yang ingin diubah menggunakan `indeks` dan kemudian menetapkan nilai baru pada `indeks` tersebut.
 
@@ -43,7 +43,7 @@ print(bilangan);
 
 </br>
 
-### Menghapus elemen pada List
+## Menghapus elemen pada List
 
 Kita dapat menghapus sebuah elemen pada `List` dengan cara menggunakan metode `removeAt()` yang menerima sebuah `indeks` sebagai `parameter`.
 
@@ -58,7 +58,7 @@ print(buah);
 
 </br>
 
-### Menambahkan elemen pada List
+## Menambahkan elemen pada List
 
 Kita dapat menambahkan sebuah elemen baru pada `List` dengan cara menggunakan metode `add()` yang menerima sebuah nilai sebagai `parameter`.
 

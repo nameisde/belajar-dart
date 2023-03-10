@@ -1,4 +1,4 @@
-## Number
+# Number
 
 Number adalah tipe data angka yang memiliki dua jenis tipe, yaitu `int` dan `double.
 

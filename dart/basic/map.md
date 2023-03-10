@@ -16,7 +16,7 @@ Berikut adalah beberapa cara manipulasi data yang dapat dilakukan pada map:
 
 </br>
 
-### 1\. Menambah pasangan `key-value` ke dalam map
+## 1\. Menambah pasangan `key-value` ke dalam map
 
 Kita dapat menambah pasangan `key-value` ke dalam map dengan menggunakan metode `.put()` atau dengan langsung menambahkan pasangan `key-value` tersebut ke dalam map.
 
@@ -37,7 +37,7 @@ print(mapHarga);
 
 </br>
 
-### 2\. Mengubah value pada pasangan `key-value` yang sudah ada
+## 2\. Mengubah value pada pasangan `key-value` yang sudah ada
 
 Kita dapat mengubah value pada pasangan `key-value` yang sudah ada dengan operator `[]`
 
@@ -54,7 +54,7 @@ print(mapHarga);
 
 </br>
 
-### 3\. Menghapus pasangan `key-value` dari map
+## 3\. Menghapus pasangan `key-value` dari map
 
 Kita dapat menghapus pasangan `key-value` dari map dengan menggunakan metode `.remove()`.
 
@@ -71,7 +71,7 @@ print(mapHarga);
 
 </br>
 
-### 4\. Mendapatkan jumlah pasangan `key-value` pada map
+## 4\. Mendapatkan jumlah pasangan `key-value` pada map
 
 Kita dapat mendapatkan jumlah pasangan `key-value` pada map dengan menggunakan metode `.length`.
 

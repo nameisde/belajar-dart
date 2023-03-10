@@ -1,4 +1,4 @@
-## Boolean
+# Boolean
 
 Tipe data boolean pada Dart adalah tipe data yang hanya memiliki dua nilai, yaitu true atau false. Tipe data boolean biasanya digunakan dalam logika dan pengambilan keputusan dalam program.
 

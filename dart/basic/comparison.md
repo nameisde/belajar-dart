@@ -1,4 +1,4 @@
-## Comparison
+# Comparison
 
 Operasi perbandingan pada bahasa Dart adalah operasi yang digunakan untuk membandingkan dua nilai atau variabel. Operasi ini mengembalikan nilai `boolean` (`true` atau `false`) yang menunjukkan hasil perbandingan.
 
@@ -6,7 +6,7 @@ Berikut adalah daftar operator perbandingan yang tersedia pada bahasa Dart:
 
 </br>
 
-### 1\. Sama dengan `==`
+## 1\. Sama dengan `==`
 
 Operator ini digunakan untuk memeriksa apakah dua nilai atau variabel memiliki nilai yang sama
 
@@ -21,7 +21,7 @@ true
 
 </br>
 
-### 2\. Tidak sama dengan `!=`
+## 2\. Tidak sama dengan `!=`
 
 Operator ini digunakan untuk memeriksa apakah dua nilai atau variabel tidak memiliki nilai yang sama
 
@@ -36,7 +36,7 @@ true
 
 </br>
 
-### 3\. Lebih besar dari `>`
+## 3\. Lebih besar dari `>`
 
 Operator ini digunakan untuk memeriksa apakah nilai pertama lebih besar dari nilai kedua
 
@@ -51,7 +51,7 @@ true
 
 </br>
 
-### 4\. Lebih kecil dari `<`
+## 4\. Lebih kecil dari `<`
 
 Operator ini digunakan untuk memeriksa apakah nilai pertama lebih kecil dari nilai kedua
 
@@ -67,7 +67,7 @@ false
 
 </br>
 
-### 5\. Lebih besar atau sama dengan `>=`
+## 5\. Lebih besar atau sama dengan `>=`
 
 Operator ini digunakan untuk memeriksa apakah nilai pertama lebih besar atau sama dengan nilai kedua
 
@@ -84,7 +84,7 @@ true
 
 </br>
 
-### 6\. Lebih kecil atau sama dengan `<=`
+## 6\. Lebih kecil atau sama dengan `<=`
 
 Operator ini digunakan untuk memeriksa apakah nilai pertama lebih kecil atau sama dengan nilai kedua
 

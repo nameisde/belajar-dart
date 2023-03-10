@@ -1,4 +1,4 @@
-## Comment
+# Comment
 
 *Comment* adalah baris perintah yang akan diabaikan ketika kode program di *compile* atau dijalankan. Biasa digunakan untuk menambahkan dokumentasi kode program
 

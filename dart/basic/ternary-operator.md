@@ -1,4 +1,4 @@
-## Ternary operator
+# Ternary operator
 
 Mengevaluasi ekspresi *boolean* dan menghasilkan nilai yang berbeda tergantung pada hasil evaluasi tersebut. `Ternary operator` memiliki sintaksis yang lebih ringkas dibandingkan dengan `if-else statement`.
 

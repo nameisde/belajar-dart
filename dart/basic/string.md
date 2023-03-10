@@ -1,4 +1,4 @@
-## String
+# String
 
 String adalah tipe data yang digunakan untuk menyimpan teks. String dapat ditulis dengan tanda kutip tunggal ('') atau ganda (""). Berikut adalah contoh penggunaan string pada Dart:
 

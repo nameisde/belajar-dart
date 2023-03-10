@@ -1,4 +1,4 @@
-## Dynamic
+# Dynamic
 
 Dynamic adalah tipe data yang dapat menampung nilai apapun. Ini berarti Anda dapat mengubah tipe data dynamic saat runtime, sesuai dengan nilai yang sedang disimpan.
 

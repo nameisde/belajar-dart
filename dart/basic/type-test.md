@@ -4,7 +4,7 @@ Operator type test digunakan untuk melakukan pengecekan tipe data dan konversi t
 
 </br>
 
-### 1\. Operator `as`
+## 1\. Operator `as`
 
 Mengkonversi suatu objek menjadi tipe data yang diinginkan atau subtype dari tipe tersebut. Jika konversi tidak berhasil, maka akan terjadi `runtime error``.
 
@@ -19,7 +19,7 @@ hello
 
 </br>
 
-### 2\. Operator `is`
+## 2\. Operator `is`
 
 Memeriksa apakah sebuah nilai atau *instance* dari suatu tipe tertentu atau *subtype* dari tipe tersebut. Jika ya, maka hasilnya adalah nilai `boolean` `true`, dan `false` jika tidak.
 
@@ -37,7 +37,7 @@ x adalah string
 
 </br>
 
-### 3\. Operator `!is`
+## 3\. Operator `!is`
 
 Memeriksa apakah sebuah nilai bukan *instance* dari suatu tipe tertentu atau bukan *subtype* dari tipe tersebut. Jika ya, maka hasilnya adalah nilai `boolean` `true`, dan `false` jika tidak.
 

@@ -1,4 +1,4 @@
-## Arithmetic
+# Arithmetic
 
 Operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, pembagian, pembagian bulat, dan modulo yang dapat diterapkan pada tipe data numerik seperti `int` dan `double`
 

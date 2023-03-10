@@ -8,7 +8,7 @@ Berikut adalah daftar operator logika beserta contoh pengunaannya:
 
 </br>
 
-### 1\. Operator `AND` (`&&`)
+## 1\. Operator `AND` (`&&`)
 
 Membandingkan dua nilai `boolean` dan menghasilkan nilai `boolean` `true` hanya jika kedua nilai tersebut bernilai `true`. Jika salah satu atau keduanya bernilai `false`, maka hasilnya akan bernilai `false`.
 
@@ -26,7 +26,7 @@ false
 
 </br>
 
-### 2\. Operator `OR` (`||`)
+## 2\. Operator `OR` (`||`)
 
 Membandingkan dua nilai `boolean` dan menghasilkan `boolean` `true` jika salah satu atau kedua nilai tersebut bernilai `true`. Jika kedua nilai tersebut `false`, maka hasilnya akan bernilai `false`
 
@@ -44,7 +44,7 @@ true
 
 </br>
 
-### 3\. Operator `NOT` (`!`)
+## 3\. Operator `NOT` (`!`)
 
 Membalikkan nilai `boolean` menjadi nilai yang berlawanan. Jika nilai awalnya adalah `true`, maka hasilnya menjadi `false` dan sebaliknya.
 

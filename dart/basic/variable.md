@@ -1,4 +1,4 @@
-## Variable
+# Variable
 
 Variable merupakan tempat untuk menyimpan sebuah data dan dapat digunakan berulang kali. Variable memiliki tipe data dan nama variable.
 

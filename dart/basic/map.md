@@ -1,4 +1,4 @@
-## Map
+# Map
 
 Map adalah salah satu struktur data pada bahasa pemrograman yang terdiri dari pasangan `key-value`. `Key` digunakan untuk mengidentifikasi value yang terkait dengannya. Map dapat digunakan untuk menyimpan data dengan format `key-value` yang bersifat dinamis dan dapat dimodifikasi.
 
